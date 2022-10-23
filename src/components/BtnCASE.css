@@ -1,0 +1,19 @@
+.btncase:hover {
+    opacity: 0.5;
+    border: none;
+    border-radius: 0.5%;
+}
+
+/* .menu {
+    display: flex;
+}
+
+.fexme {
+    margin-left: 63pc;
+}
+
+@media (max-width:700px) {
+    .fexme {
+        display: none;
+    }
+} */
